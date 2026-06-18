@@ -1,16 +1,23 @@
-## Hi there 👋
+### AI Transformation Architect
 
-<!--
-**brenda-sk-li/brenda-sk-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design the frameworks, methodology, and enablement tooling that move
+organizations from AI curiosity to AI adoption at scale — across business
+units, through people who don't report to me.
 
-Here are some ideas to get you started:
+This profile hosts concept-level versions of my AI enablement work:
+adoption frameworks, value-measurement models, and educational resources.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Selected work**
+
+| Project | What it is |
+|---|---|
+| [ai-workforce-transformation](https://brenda-sk-li.github.io/ai-workforce-transformation/) | How AI reshapes roles, skills, and workforce planning |
+| [RoA-GenAI-Advantage](https://brenda-sk-li.github.io/RoA-GenAI-Advantage/) | A Return-on-AI framework for evaluating GenAI business value |
+| [ai-evolution-infographic](https://brenda-sk-li.github.io/ai-evolution-infographic/) | Translating AI capability for non-technical audiences |
+| [aitec-sprint-week2-build](https://brenda-sk-li.github.io/aitec-sprint-week2-build/) | A structured methodology for building AI solutions with end users |
+| [45High-LeveragePrompts](https://brenda-sk-li.github.io/45High-LeveragePrompts/) | Practical prompting patterns for workforce-wide AI fluency |
+
+Lean Six Sigma Green Belt · Change frameworks: ADKAR, Kotter, Bridges
+Trilingual: English · Cantonese · Mandarin
+
+[LinkedIn](https://linkedin.com/in/brenda-sk-li)
