@@ -18,6 +18,7 @@ adoption frameworks, value-measurement models, and educational resources.
 | [45High-LeveragePrompts](https://brenda-sk-li.github.io/45High-LeveragePrompts/) | Practical prompting patterns for workforce-wide AI fluency |
 
 Lean Six Sigma Green Belt · Change frameworks: ADKAR, Kotter, Bridges
+
 Trilingual: English · Cantonese · Mandarin
 
 [LinkedIn](https://linkedin.com/in/brenda-sk-li)
