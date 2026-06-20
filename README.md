@@ -4,18 +4,33 @@ I design the frameworks, methodology, and enablement tooling that move
 organizations from AI curiosity to AI adoption at scale — across business
 units, through people who don't report to me.
 
-This profile hosts concept-level versions of my AI enablement work:
-adoption frameworks, value-measurement models, and educational resources.
+---
 
-**Selected work**
+**The 4-Week Sprint** — my end-to-end methodology for taking a business
+team from raw problem to a tested, adopted AI solution. Each phase is a
+gate: teams advance only when they've earned it.
+
+| Phase | Focus |
+|---|---|
+| [Week 0 — Plan & Prepare](https://brenda-sk-li.github.io/4-Week-Sprint-Week-0-Plan_-_Prepare/) | Team assembly, readiness gates, the two reasons AI projects fail before they start |
+| [Week 1 — Discovery](https://brenda-sk-li.github.io/4-Week-Sprint-Week-1-Discovery/) | Structured use-case storytelling — finding the gaps before the build |
+| [Week 2 — Build](https://brenda-sk-li.github.io/4-Week-Sprint-Week-2-Build/) | The 7-Step Build Methodology and the Beef Wellington Gate |
+| [Week 3 — Test](https://brenda-sk-li.github.io/4-Week-Sprint-Week-3-Test/) | The Michelin Inspector Framework and the Three-Star Standard |
+| [Week 4 — Improve](https://brenda-sk-li.github.io/4-Week-Sprint-Week-4-Improve/) | Refinement against real-world test results |
+| [Weeks 5–8 — Sustain & Scale](https://brenda-sk-li.github.io/4-Week-Sprint-Week-5-to-8-Success-Sustain-Scale/) | Independent ownership, re-inspection, and the path to scale |
+
+---
+
+**Selected frameworks & resources**
 
 | Project | What it is |
 |---|---|
 | [ai-workforce-transformation](https://brenda-sk-li.github.io/ai-workforce-transformation/) | How AI reshapes roles, skills, and workforce planning |
 | [RoA-GenAI-Advantage](https://brenda-sk-li.github.io/RoA-GenAI-Advantage/) | A Return-on-AI framework for evaluating GenAI business value |
 | [ai-evolution-infographic](https://brenda-sk-li.github.io/ai-evolution-infographic/) | Translating AI capability for non-technical audiences |
-| [aitec-sprint-week2-build](https://brenda-sk-li.github.io/aitec-sprint-week2-build/) | A structured methodology for building AI solutions with end users |
 | [45High-LeveragePrompts](https://brenda-sk-li.github.io/45High-LeveragePrompts/) | Practical prompting patterns for workforce-wide AI fluency |
+
+---
 
 Lean Six Sigma Green Belt · Change frameworks: ADKAR, Kotter, Bridges
 
