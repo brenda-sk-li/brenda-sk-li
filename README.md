@@ -12,12 +12,12 @@ gate: teams advance only when they've earned it.
 
 | Phase | Focus |
 |---|---|
-| [Week 0 — Plan & Prepare] | Team assembly, readiness gates, the two reasons AI projects fail before they start |
-| [Week 1 — Discovery] | Structured use-case storytelling — finding the gaps before the build |
-| [Week 2 — Build] | The 7-Step Build Methodology and Quality-Gate Checkpoints |
-| [Week 3 — Test]| Independent Testing against a Defined Quality Standard |
-| [Week 4 — Improve]| Refinement against real-world test results |
-| [Weeks 5–8 — Sustain & Scale] | Independent ownership, structured reassessment, and the path to scale |
+| Week 0 — Plan & Prepare | Team assembly, readiness gates, the two reasons AI projects fail before they start |
+| Week 1 — Discovery | Structured use-case storytelling — finding the gaps before the build |
+| Week 2 — Build | The 7-Step Build Methodology and Quality-Gate Checkpoints |
+| Week 3 — Test| Independent Testing against a Defined Quality Standard |
+| Week 4 — Improve| Refinement against real-world test results |
+| Weeks 5–8 — Sustain & Scale | Independent ownership, structured reassessment, and the path to scale |
 
 ---
 
